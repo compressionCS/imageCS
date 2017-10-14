@@ -1,7 +1,9 @@
 # imageCS
 
 Reference           : "An efficient algorithm for compression-based compressed sensing"
+
 Authors             : S. Beygi, S. Jalali, A. Maleki, U. Mitra
+
 Download            : https://arxiv.org/abs/1704.01992
 
 
